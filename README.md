@@ -1,10 +1,9 @@
 # Hi there, I'm Rushikesh More 👋  
-*Data Enthusiast | Cybersecurity Explorer | AI/ML Learner*  
 
-📍 Pune, Maharashtra, India  
-📧 [rushikeshmore5402@gmail.com](mailto:rushikeshmore5402@gmail.com)  
-📱 +91 9819342725  
-🔗 [LinkedIn](https://www.linkedin.com/in/rushikesh-more-14b622213/)  
+![Banner](https://raw.githubusercontent.com/rushikeshmore/rushikeshmore/main/banner.png)  
+<!-- Replace the link above with your own image or GIF -->
+
+*Data Enthusiast | Cybersecurity Explorer | AI/ML Learner*  
 
 ---
 
@@ -28,33 +27,6 @@ Motivated and detail-oriented graduate with hands-on experience in **data analys
 
 ---
 
-## 💼 Experience  
-
-**Cyber Developer Analyst Intern**  
-📍 DeepCytes Cyber Labs (UK) – Hybrid, India  
-🗓️ Jan 2025 – Present  
-- Researched and analyzed **emerging cyber threats** and advanced attack vectors.  
-- Developed a **Learning Management System (LMS)** for cyber resilience training.  
-- Built an **AI-powered Intelligent Task Manager** with LLMs for real-time threat mitigation.  
-- Created **real-time dashboards in Kibana** for monitoring live packet data (allowed vs. blocked).  
-- Collaborated with interdisciplinary teams to deliver innovative security solutions.  
-
-**Marketing & Operations Intern**  
-📍 Code Gurukul – Remote, India  
-🗓️ Jun 2021 – Aug 2021  
-- Supported marketing and operations for strategic initiatives.  
-- Contributed to campaign launches and workflow optimization, improving visibility and efficiency.  
-
----
-
-## 🚀 Projects  
-- 🎨 **Virtual AI Painter (Python, OpenCV)** – Gesture-controlled virtual canvas for touchless digital painting.  
-- 🕹️ **Pong Game with Hand Gestures (OpenCV)** – Interactive Pong game controlled via real-time hand tracking.  
-- 🍎 **Apple Quality Detection (TensorFlow, Scikit-learn)** – Classified fresh vs. rotten apples with Sequential and ResNet models.  
-- ✈️ **Indian Airline Ticket Price Dashboard (Power BI)** – Interactive BI dashboard analyzing airline ticket price trends.  
-
----
-
 ## 🎓 Education  
 **MIT World Peace University, Pune**  
 🎓 B.Tech in Computer Science & Engineering  
@@ -74,6 +46,14 @@ Motivated and detail-oriented graduate with hands-on experience in **data analys
 ## 🙌 Additional Information  
 - Volunteer: RIDE, HACK MIT, SUMMIT  
 - Participant: **NAIP Artificial Intelligence and Machine Learning** (Dr. B R Ambedkar NITTTR, Apr 2024)  
+
+---
+
+## 📍 Connect with Me  
+📍 Pune, Maharashtra, India  
+📧 [rushikeshmore5402@gmail.com](mailto:rushikeshmore5402@gmail.com)  
+📱 +91 9819342725  
+🔗 [LinkedIn](https://www.linkedin.com/in/rushikesh-more-14b622213/)  
 
 ---
 
