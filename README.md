@@ -44,9 +44,9 @@ B.Tech in Computer Science & Engineering
 ---
 
 ## 🙌 Beyond Tech  
-- 🤝 Volunteer: RIDE, HACK MIT, SUMMIT  
-- 🎯 Participant: **NAIP AI & ML Program** – Dr. B R Ambedkar NITTTR (Apr 2024)  
-- 🏋️ Outside of tech, you’ll find me powerlifting, **exploring new places.  
+- 🤝 **Volunteer Work:** Actively contributed to events and initiatives such as **RIDE**, **HACK MIT**, and **SUMMIT**, helping organize workshops, mentor participants, and support community-driven tech projects.  
+- 🎯 **Participant:** Completed the **NAIP AI & ML Program** at **Dr. B R Ambedkar NITTTR** (Apr 2024), where I worked on practical AI and machine learning projects, honing skills in real-world problem-solving. 
+- 🏋️ **Hobbies & Interests:** Outside of technology, I am passionate about powerlifting, which teaches discipline and focus, and exploring new places, fueling my curiosity and creativity. I also enjoy discovering local cultures, food, outdoor adventures, and staying active through sports. 
 
 ---
 
