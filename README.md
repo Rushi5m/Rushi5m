@@ -51,7 +51,7 @@ B.Tech in Computer Science & Engineering
 ---
 
 ## 📍 Let’s Connect  
-📍 Pune, Maharashtra, India  
+📍 Mumbai, Maharashtra, India  
 📧 [rushikeshmore5402@gmail.com](mailto:rushikeshmore5402@gmail.com)  
 📱 +91 9819342725  
 🔗 [LinkedIn](https://www.linkedin.com/in/rushikesh-more-14b622213/)  
