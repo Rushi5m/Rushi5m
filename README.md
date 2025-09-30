@@ -1,6 +1,8 @@
 # Hi there, I'm Rushikesh More 👋  
 
-<img src="https://github.com/Rushi5m/Rushi5m/blob/main/Gemini_Generated_Image_syw07csyw07csyw0.png" alt="Banner" width="600"/>
+<p align="center">
+  <img src="https://github.com/Rushi5m/Rushi5m/blob/main/Gemini_Generated_Image_syw07csyw07csyw0.png" alt="Banner" width="600"/>
+</p>
 
 <!-- Replace the link above with your own image or GIF -->
 
