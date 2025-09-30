@@ -1,6 +1,7 @@
 # Hi there, I'm Rushikesh More 👋  
 
-![Banner](https://github.com/Rushi5m/Rushi5m/blob/main/Gemini_Generated_Image_syw07csyw07csyw0.png))  
+<img src="https://github.com/Rushi5m/Rushi5m/blob/main/Gemini_Generated_Image_syw07csyw07csyw0.png" alt="Banner" width="600"/>
+
 <!-- Replace the link above with your own image or GIF -->
 
 *Data Enthusiast | Cybersecurity Explorer | AI/ML Learner*  
