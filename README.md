@@ -7,7 +7,7 @@
 ---
 
 ## 👨‍💻 About Me  
-I'm a **data enthusiast ** who loves turning raw data into powerful insights and building solutions that make a difference.  
+I'm a data enthusiast who loves turning raw data into powerful insights and building solutions that make a difference.  
 
 - 🚀 Experienced with **real-time dashboards (Kibana, Power BI)**, **AI-powered apps**, and **ML models**.  
 - 🛠️ Strong in **Python, SQL, and machine learning frameworks**.  
