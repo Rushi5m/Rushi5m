@@ -59,9 +59,11 @@ B.Tech in Computer Science & Engineering
 ---
 
 ## 📊 GitHub Stats  
-<p 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rushikeshmore&show_icons=true&theme=default" alt="GitHub Stats" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rushikeshmore&layout=compact" alt="Top Languages" height="160"/>
 </p>
+
 
 ---
 
