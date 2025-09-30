@@ -1,68 +1,85 @@
-# Hi there 👋 I'm Rushikesh More
+# Hi there, I'm Rushikesh More 👋  
+*Data Enthusiast | Cybersecurity Explorer | AI/ML Learner*  
 
-A detail-oriented graduate driven by a passion for creating **AI-powered solutions** and extracting **actionable insights** from data. With hands-on experience in **deep learning, dashboard development (Kibana, Power BI), and cyber threat analysis**, I thrive at the intersection of data science and security. I am dedicated to leveraging data to drive operational efficiency and build innovative solutions.
-
----
-
-### 💡 Currently Focusing On
-
-- 🔭 **Cyber/AI Synthesis:** Currently a **Cyber Developer Analyst Intern** at **DeepCytes Cyber Labs**, leading the development of an **AI-powered Intelligent Task Manager** and contributing to cyber resilience training solutions.
-- 🌱 **Data Visualization & Analytics:** Continuously building interactive dashboards (Power BI & Kibana) to visualize real-time data, enabling proactive monitoring and data-driven decision-making.
-- 👯 **Open for Collaboration:** Excited to collaborate on projects involving **Computer Vision (OpenCV), Deep Learning, and end-to-end data analytics solutions.**
-- 💬 **Ask Me About:** Python, SQL, Power BI, TensorFlow, Scikit-learn, and Cyber Threat Modeling.
-- ⚡ **Fun Fact:** I've built a **fully touchless Pong game** using only hand gestures and computer vision!
+📍 Pune, Maharashtra, India  
+📧 [rushikeshmore5402@gmail.com](mailto:rushikeshmore5402@gmail.com)  
+📱 +91 9819342725  
+🔗 [LinkedIn](https://www.linkedin.com/in/rushikesh-more-14b622213/)  
 
 ---
 
-## 🔧 Technical Toolkit
+## 👨‍💻 Personal Summary  
+Motivated and detail-oriented graduate with hands-on experience in **data analysis, dashboard development, and AI-driven solutions**.  
 
-This section features badges, which you can generate using services like [Shields.io](https://shields.io/) for a professional look.
+- Contributed to **real-time analytics dashboards in Kibana**, an **AI-powered task manager**, and a **cyber resilience LMS app**.  
+- Skilled in **Python, Power BI, and Machine Learning** to drive efficiency and actionable insights.  
+- Strong foundation in **data visualization, analytical problem-solving, and cross-functional collaboration**.  
 
-| Category | Skills & Tools |
-| :--- | :--- |
-| **Programming** | **Python** [![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/), C |
-| **AI / ML / CV** | **TensorFlow**, **Scikit-learn**, Deep Learning, **ResNet**, **OpenCV**, Model Tuning |
-| **Data & BI** | **Power BI**, **SQL**, Kibana, Data Storytelling, Dashboards |
-| **Cybersecurity** | Threat Modeling, Vulnerability Assessment |
+👉 Currently seeking graduate-level or junior opportunities as a **Data Analyst, Business Analyst, Junior Cybersecurity Engineer, or AI/ML Engineer** (open to hybrid or on-site roles).  
 
 ---
 
-## 💻 Highlighted Projects
-
-| Project Name | Technology Stack | Brief Description |
-| :--- | :--- | :--- |
-| **Virtual AI Painter** | `OpenCV`, `Python` | Built a gesture-controlled virtual canvas enabling touchless digital drawing through real-time hand tracking. |
-| **Apple Quality Detection** | `TensorFlow`, `Scikit-learn` | Designed and implemented deep learning models (Sequential, ResNet) to classify fresh vs. rotten apples with reliable accuracy. |
-| **Indian Airline Ticket Price Dashboard** | `Power BI`, `SQL` | Created interactive BI dashboards to analyze and visualize real-world airline ticket price trends for actionable business insights. |
-| **Pong Game using Hand Gestures** | `OpenCV` | Developed an interactive Pong game controlled via real-time hand tracking and gesture recognition for fully touchless gameplay. |
+## 🛠️ Technical Skills  
+- **Cybersecurity**: Threat modeling, vulnerability assessment  
+- **AI/ML**: TensorFlow, Scikit-learn, ResNet, deep learning, model tuning  
+- **Computer Vision**: OpenCV, hand gesture recognition  
+- **Data Visualization**: Power BI, SQL, dashboards, storytelling  
+- **Programming**: Python, C  
 
 ---
 
-## 🎓 Education & Certifications
+## 💼 Experience  
 
-- **B.Tech in Computer Science & Engineering** | MIT,WPU - Pune, India (CGPA: 8.32 / 10)
-- **Mastercard Cybersecurity** Job Simulation (Forage)
-- **Deloitte Data Analytics** Job Simulation (Forage)
-- **Data Visualisation Fundamentals** (Microsoft)
+**Cyber Developer Analyst Intern**  
+📍 DeepCytes Cyber Labs (UK) – Hybrid, India  
+🗓️ Jan 2025 – Present  
+- Researched and analyzed **emerging cyber threats** and advanced attack vectors.  
+- Developed a **Learning Management System (LMS)** for cyber resilience training.  
+- Built an **AI-powered Intelligent Task Manager** with LLMs for real-time threat mitigation.  
+- Created **real-time dashboards in Kibana** for monitoring live packet data (allowed vs. blocked).  
+- Collaborated with interdisciplinary teams to deliver innovative security solutions.  
+
+**Marketing & Operations Intern**  
+📍 Code Gurukul – Remote, India  
+🗓️ Jun 2021 – Aug 2021  
+- Supported marketing and operations for strategic initiatives.  
+- Contributed to campaign launches and workflow optimization, improving visibility and efficiency.  
 
 ---
 
-## 🤝 Connect with me:
+## 🚀 Projects  
+- 🎨 **Virtual AI Painter (Python, OpenCV)** – Gesture-controlled virtual canvas for touchless digital painting.  
+- 🕹️ **Pong Game with Hand Gestures (OpenCV)** – Interactive Pong game controlled via real-time hand tracking.  
+- 🍎 **Apple Quality Detection (TensorFlow, Scikit-learn)** – Classified fresh vs. rotten apples with Sequential and ResNet models.  
+- ✈️ **Indian Airline Ticket Price Dashboard (Power BI)** – Interactive BI dashboard analyzing airline ticket price trends.  
 
-Use these badge links to instantly connect!
+---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rushikesh-more14b622213/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rushikeshmore5402@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)]([Your GitHub Profile URL])
+## 🎓 Education  
+**MIT World Peace University, Pune**  
+🎓 B.Tech in Computer Science & Engineering  
+📊 CGPA: 8.32 / 10  
 
-***
+---
 
-### 🖼️ Recommended Image Placement
+## 📜 Certifications  
+- Data Visualization Fundamentals – *Microsoft* (Jun 2025)  
+- Mastercard Cybersecurity Job Simulation – *Forage* (Apr 2025)  
+- Deloitte Data Analytics Job Simulation – *Forage* (May 2025)  
+- Electronic Arts Product Management Job Simulation – *Forage* (Apr 2025)  
+- A2 Level German Language – *Goethe-Institut Indien*  
 
-I strongly recommend placing the high-definition, text-free data analysis image you liked right after your main greeting to make your profile visually impactful.
+---
 
-```markdown
-# Hi there 👋 I'm Rushikesh More
-<p align="center">
-  <img src="[Your Image URL]" width="800" alt="Data Science & Cybersecurity Workspace">
-</p>
+## 🙌 Additional Information  
+- Volunteer: RIDE, HACK MIT, SUMMIT  
+- Participant: **NAIP Artificial Intelligence and Machine Learning** (Dr. B R Ambedkar NITTTR, Apr 2024)  
+
+---
+
+## 📊 GitHub Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rushikeshmore&show_icons=true&theme=default)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rushikeshmore&layout=compact)  
+
+---
+⭐️ *Thanks for visiting my profile! Let’s connect and collaborate on impactful projects.*
