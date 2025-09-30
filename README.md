@@ -1,6 +1,6 @@
 # Hi there, I'm Rushikesh More 👋  
 
-![Banner](https://raw.githubusercontent.com/rushikeshmore/rushikeshmore/main/banner.png)  
+![Banner](https://github.com/Rushi5m/Rushi5m/blob/main/Gemini_Generated_Image_syw07csyw07csyw0.png))  
 <!-- Replace the link above with your own image or GIF -->
 
 *Data Enthusiast | Cybersecurity Explorer | AI/ML Learner*  
